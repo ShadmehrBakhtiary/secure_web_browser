@@ -6,8 +6,8 @@ This project is a secure web browser implemented in Python using multithreading,
 ## Features
 - Multithreaded programming for improved performance
 - Secure Socket Layer (SSL) encryption for secure communication
-- Ability to retrieve and display web page content, including HTML and CSS
-- User-friendly interface for browsing the web securely
+- Ability to retrieve web page content, including HTML and CSS
+
 
 ## Dependencies
 - Python 3.x
@@ -26,7 +26,7 @@ This project is a secure web browser implemented in Python using multithreading,
    python secure_web_browser.py
    ```
 
-2. Enter the URL of the website you want to visit.
+2. Enter the URL of the website you want to visit in array.
 
 3. The browser will use multithreading and SSL to securely retrieve and display the web page content.
 
@@ -40,5 +40,3 @@ This project is a secure web browser implemented in Python using multithreading,
 For any questions or feedback, please contact [bdbirani@gmail.com].
 
 ---
-
-Feel free to customize this template with specific details about your project.
